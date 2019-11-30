@@ -8,9 +8,6 @@
 
 import Foundation
 
-// Copyright (c) 2018 Razeware LLC
-// For full license & permission details, see LICENSE.markdown.
-
 struct Heap<Element: Equatable> {
     
     var elements: [Element] = []
